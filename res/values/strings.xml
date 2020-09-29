@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">
+        <item>Home</item>
+        <item>Trends</item>
+        <item>Sport</item>
+        <item>Music</item>
+        <item >Culture and Arts</item>
+        <item > Politics</item>
+        <item >Food and Drink</item>
+        <item >Tourism</item>
+         <item >Cars</item>
+           <item >Others</item>
+        
+    </string-array>
+     <string-array name="types">
+     <item>Type 1</item>
+     <item>Type 2</item>
+     <item>Type 3</item>
+    </string-array>
+    <string-array name="types_values">
+     <item>1</item>
+     <item>2</item>
+     <item>3</item>
+    </string-array>
+    
+    <string name="drawer_open">Open navigation drawer</string><string name="drawer_close">Close navigation drawer</string><string name="action_websearch">Web search</string><string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Versus Hit</string>
+    <string name="Fragment2">This is ActionBarSherlock Fragment 2</string>
+    <string name="Fragment3">This is ActionBarSherlock Fragment 3</string>
+    <string name="search_hint">Search hint</string>
+    <string name="menu_settings">Settings</string>
+</resources>
